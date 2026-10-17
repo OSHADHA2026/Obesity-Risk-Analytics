@@ -1,0 +1,13 @@
+
+.Rhistory
+.RData
+.Ruserdata
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+data/
+outputs/
+
+*.rds
+*.RData
