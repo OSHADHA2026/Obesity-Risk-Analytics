@@ -6,8 +6,5 @@
 .DS_Store
 Thumbs.db
 
-data/
-outputs/
-
 *.rds
 *.RData
